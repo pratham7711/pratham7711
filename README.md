@@ -1,76 +1,68 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Pratham</h1>
-<h4 align="center">a freelance developer an also an engineering students at Guru Gobind Singh Indraprashta University</h4>
+
+# Pratham Sharma
+
+**Full Stack + AI Engineer | React · TypeScript · Node.js · LangChain | Building intelligent web apps**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-git-main-prathams-projects-371c8ade.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-sharma-a555b8207)
+[![npm](https://img.shields.io/badge/@pratham7711%2Fui-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@pratham7711/ui)
+
 </div>
+
+---
+
+## About
+
+Software Engineer at **Leegality** — building production-grade React + TypeScript apps, AI/RAG pipelines, and real-time systems.
+
+Previously at **Salescode.ai** — rewrote Java/Kafka data pipelines, cutting runtime from 6–9 hours to under 5 minutes.
+
+- 🎓 B.Tech CSE · GGSIPU · **9.4 GPA**
+- ⚔️ LeetCode **Knight** · 500+ problems · **#355 global**
+- 📦 Published npm package · `@pratham7711/ui` · 18 components
+
+---
+
+## Stack
+
+**Frontend**
+`React` `TypeScript` `Next.js` `Tailwind CSS` `Framer Motion`
+
+**Backend & AI**
+`Node.js` `FastAPI` `LangChain` `Pinecone` `PostgreSQL`
+
+**Infra & Tooling**
+`Docker` `Kafka` `WebSockets` `Vercel` `Railway`
+
+---
+
+## Projects
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **DocMind AI** | RAG-powered PDF chat — upload any doc, ask questions in plain English | Next.js · FastAPI · LangChain · Pinecone · Gemini | [Live](https://frontend-mu-five-51.vercel.app) · [Code](https://github.com/pratham7711/docmind-ai) |
+| **Collabboard** | Real-time collaborative whiteboard with live presence and drawing tools | React · Socket.io · Fabric.js · Zustand | [Live](https://collabboard-phi.vercel.app) · [Code](https://github.com/pratham7711/collabboard) |
+| **Shopwave** | Full-featured e-commerce storefront with Stripe checkout | React · TypeScript · Stripe · Zustand · Vite | [Live](https://shopwave-green.vercel.app) · [Code](https://github.com/pratham7711/shopwave) |
+| **StreamDash** | Real-time event dashboard — live metrics, WebSocket feed, system health | React · Node.js · WebSockets · Recharts | [Live](https://streamdash-virid.vercel.app) · [Code](https://github.com/pratham7711/streamdash) |
+| **DevPulse** | GitHub analytics dashboard — repos, commits, stars, activity at a glance | React · GitHub API · Recharts · React Router | [Live](https://devpulse-git-main-prathams-projects-371c8ade.vercel.app) · [Code](https://github.com/pratham7711/devpulse) |
+| **@pratham7711/ui** | Component library — 18 production-ready React components, one `npx` away | React · TypeScript · Rollup · Storybook | [Live](https://pratham-ui.vercel.app) · [Code](https://github.com/pratham7711/create-pratham-setup) |
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pratham7711&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham7711&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+
 </div>
 
-<details>
-  <summary>☎️ contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/pratham-sharma-a555b8207/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="pratham" height="30"/></a>
-      <a href="https://mailto:prathamsharma7711@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="pratham" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://www.instagram.com/prathams7711/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="pratham" height="30"/></a>
-      <a href="https://wa.me/+919871222770" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="pratham" height="30"/></a>
-      <br>
-    </p>
-  </samp>
+---
+
+<div align="center">
+
+*Open to global opportunities · prathamsharma7711@gmail.com*
+
 </div>
-</details>
-
-<details>
-  <summary>🌏 global</summary>
-<div>
-<h2 align="center"> Wanna learn more something about me? </h2>
-</div>
-
-```Always thinking what to think next.```
-</details>
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/pratham7711/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham7711&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="pratham7711 :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/pratham7711/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=pratham7711&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham7711&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
-</details>
-
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/pratham7711/github-readme-activity-graph"><img alt="pratham's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=pratham7711&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
-
-------
-Credit: [pratham7711](https://github.com/pratham7711)
-Last Edited on: 11/08/2022
