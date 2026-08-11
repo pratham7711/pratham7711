@@ -46,7 +46,7 @@ Previously at **Salescode.ai** — rewrote Java/Kafka data pipelines, cutting ru
 | **Shopwave** | Full-featured e-commerce storefront with Stripe checkout | React · TypeScript · Stripe · Zustand · Vite | [Live](https://shopwave-green.vercel.app) · [Code](https://github.com/pratham7711/shopwave) |
 | **StreamDash** | Real-time event dashboard — live metrics, WebSocket feed, system health | React · Node.js · WebSockets · Recharts | [Live](https://streamdash-virid.vercel.app) · [Code](https://github.com/pratham7711/streamdash) |
 | **DevPulse** | GitHub analytics dashboard — repos, commits, stars, activity at a glance | React · GitHub API · Recharts · React Router | [Live](https://devpulse-git-main-prathams-projects-371c8ade.vercel.app) · [Code](https://github.com/pratham7711/devpulse) |
-| **@pratham7711/ui** | Component library — 18 production-ready React components, one `npx` away | React · TypeScript · Rollup · Storybook | [Live](https://pratham-ui.vercel.app) · [Code](https://github.com/pratham7711/create-pratham-setup) |
+| **@pratham7711/ui** | Design system — 44 accessible, themeable React components, published to npm | React · TypeScript · Vite · Storybook | [Live](https://pratham-ui.vercel.app) · [Code](https://github.com/pratham7711/prathamuio) |
 
 ---
 
