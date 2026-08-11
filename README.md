@@ -4,7 +4,7 @@
 
 **Full Stack + AI Engineer | React · TypeScript · Node.js · LangChain | Building intelligent web apps**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-git-main-prathams-projects-371c8ade.vercel.app)
+[![Portfolio](https://img.shields.io/badge/prathamsharma.in-000?style=flat-square&logo=vercel&logoColor=white)](https://prathamsharma.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-sharma-a555b8207)
 [![npm](https://img.shields.io/badge/@pratham7711%2Fui-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@pratham7711/ui)
 
@@ -47,17 +47,6 @@ Previously at **Salescode.ai** — rewrote Java/Kafka data pipelines, cutting ru
 | **StreamDash** | Real-time event dashboard — live metrics, WebSocket feed, system health | React · Node.js · WebSockets · Recharts | [Live](https://streamdash-virid.vercel.app) · [Code](https://github.com/pratham7711/streamdash) |
 | **DevPulse** | GitHub analytics dashboard — repos, commits, stars, activity at a glance | React · GitHub API · Recharts · React Router | [Live](https://devpulse-git-main-prathams-projects-371c8ade.vercel.app) · [Code](https://github.com/pratham7711/devpulse) |
 | **@pratham7711/ui** | Component library — 18 production-ready React components, one `npx` away | React · TypeScript · Rollup · Storybook | [Live](https://pratham-ui.vercel.app) · [Code](https://github.com/pratham7711/create-pratham-setup) |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pratham7711&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham7711&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-
-</div>
 
 ---
 
