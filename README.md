@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Pratham Sharma — Full Stack + AI Engineer. Java/Kafka ETL rewrite: 6–9 hours nightly down to under 5 minutes, drawn to scale. 64% fewer UI defect tickets, 4 AI features in production, 44 components shipped to npm, LeetCode Knight #355 global." src="assets/hero-light.svg" width="880">
+  <img alt="Pratham Sharma — Full Stack + AI Engineer. Java/Kafka ETL rewrite: 6–9 hours nightly down to under 5 minutes, drawn to scale. 64% fewer UI defect tickets, 4 AI features in production, 44 components shipped to npm, LeetCode Knight, best rank #382 global." src="assets/hero-light.svg" width="880">
 </picture>
 
 [![Portfolio](https://img.shields.io/badge/prathamsharma.in-000?style=flat-square&logo=vercel&logoColor=white)](https://prathamsharma.in)
@@ -29,8 +29,8 @@ Same idea, shipped at work: **AI Review** and **Smart Extraction** at Leegality 
 
 **Salescode.ai** — Rewrote the Java/Kafka ETL layer. A nightly job that took **6–9 hours finished in under 5 minutes** (that's the bar in the header, drawn to scale). Then built the Kafka pipelines behind real-time ingestion.
 
-- 🎓 B.Tech CSE · GGSIPU · **9.4 / 10**
-- ⚔️ LeetCode **Knight** · 500+ solved · **#355 global**
+- 🎓 B.Tech IT · GGSIPU · **9.4 / 10**
+- ⚔️ LeetCode **Knight** · 857 solved · best rank **#382 global**
 - 📦 `@pratham7711/ui` on npm · **44 accessible components**
 
 ---
