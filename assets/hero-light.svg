@@ -34,15 +34,15 @@
   <rect x="40" y="166" width="11" height="26" rx="3" fill="#1a7f37"/>
 
   <text x="63" y="184" class="tick" fill="#1a7f37">under 5 min</text>
-  <text x="840" y="184" text-anchor="end" class="tick" fill="#59636e">was 6–9 hours, nightly</text>
+  <text x="840" y="184" text-anchor="end" class="tick" fill="#59636e">was 6 hours, nightly</text>
 
   <line x1="40" y1="214" x2="840" y2="214" stroke="#d0d7de"/>
 
     <text x="40" y="252" class="v">64%</text>
     <text x="40" y="272" class="l">fewer UI defect tickets</text>
-    <text x="240" y="252" class="v">4</text>
+    <text x="240" y="252" class="v">3</text>
     <text x="240" y="272" class="l">AI features in production</text>
-    <text x="440" y="252" class="v">44</text>
+    <text x="440" y="252" class="v">64</text>
     <text x="440" y="272" class="l">components shipped to npm</text>
     <text x="640" y="252" class="v">#382</text>
     <text x="640" y="272" class="l">LeetCode global · Knight</text>
